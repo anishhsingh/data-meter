@@ -50,7 +50,7 @@ Verify setup:
 
 - mvn clean compile
 
-3. Run the Application
+2. Run the Application
 - bash
 
 - mvn exec:java -Dexec.mainClass="com.datameter.Main" -Dexec.args="data"
