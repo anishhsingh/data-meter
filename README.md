@@ -19,18 +19,8 @@
 
 ## 🗂️ Directory Structure
 
-data-meter-final/
-├── pom.xml # Maven project file (build configuration)
-├── README.md # Project documentation
-├── config.properties # Config file for rates/thresholds
-├── src/
-│ ├── main/
-│ │ ├── java/ # Java source code
-│ │ └── resources/ # Resource files
-│ └── test/
-│ └── java/ # Unit tests (if any)
-└── data/ # Sample data directory
-├── input/ # Folder with input .txt files
+![image](https://github.com/user-attachments/assets/fbd0d4d7-5f07-4e4a-84fb-16ac8e73ff91)
+
 
 ---
 
