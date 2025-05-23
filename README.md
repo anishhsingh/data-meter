@@ -19,7 +19,7 @@
 
 ## 🗂️ Directory Structure
 
-![image](https://github.com/user-attachments/assets/fbd0d4d7-5f07-4e4a-84fb-16ac8e73ff91)
+![image](https://github.com/user-attachments/assets/cb3b3a8b-ecc3-4610-9f3a-e83aa172e107)
 
 
 ---
