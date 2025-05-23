@@ -1,0 +1,6 @@
+com\datameter\processor\RecordParser.class
+com\datameter\utils\ConfigLoader.class
+com\datameter\model\UsageSummary.class
+com\datameter\processor\FileProcessor.class
+com\datameter\Main.class
+com\datameter\model\UsageRecord.class
