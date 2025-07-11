@@ -3,7 +3,6 @@ package com.datameter.processor;
 import com.datameter.model.UsageRecord;
 
 public class RecordParser {
-    // Parses a line like "9876543210|Jio|1024|2048|Yes" into a UsageRecord
     public static UsageRecord parseLine(String line) throws Exception {
         String[] parts = line.split("\\|");
         if (parts.length != 5)
